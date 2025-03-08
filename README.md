@@ -20,7 +20,7 @@ dependencies {
 ## How to Run
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone [https://github.com/dikshamehta/QRCode](https://github.com/dikshamehta/QRCode.git)
    ```
 2. Open the project in **Android Studio**.
 3. Build and run the app on an emulator or a physical device.
